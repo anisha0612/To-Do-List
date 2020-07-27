@@ -1,2 +1,5 @@
 # To-Do-List
-Add or delete lists using HTML, CSS and Javascript
+
+This is a To-do list app using HTML, CSS, Javascript and jQuery.
+
+
